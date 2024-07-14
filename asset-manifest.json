@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DropZone_Game/static/css/main.32134750.css",
+    "main.js": "/DropZone_Game/static/js/main.94495eb0.js",
+    "static/js/453.414140c3.chunk.js": "/DropZone_Game/static/js/453.414140c3.chunk.js",
+    "index.html": "/DropZone_Game/index.html",
+    "main.32134750.css.map": "/DropZone_Game/static/css/main.32134750.css.map",
+    "main.94495eb0.js.map": "/DropZone_Game/static/js/main.94495eb0.js.map",
+    "453.414140c3.chunk.js.map": "/DropZone_Game/static/js/453.414140c3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32134750.css",
+    "static/js/main.94495eb0.js"
+  ]
+}
